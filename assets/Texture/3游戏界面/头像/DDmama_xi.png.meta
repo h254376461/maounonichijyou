@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "66e93f7b-11da-41b5-beeb-5a7b230041b3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "DDmama_xi": {
+      "ver": "1.0.3",
+      "uuid": "0a2e7f0e-0ab8-4669-833c-3a71db2577ab",
+      "rawTextureUuid": "66e93f7b-11da-41b5-beeb-5a7b230041b3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 180,
+      "height": 180,
+      "rawWidth": 180,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

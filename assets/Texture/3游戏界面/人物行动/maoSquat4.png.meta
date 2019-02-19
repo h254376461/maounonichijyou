@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "752af102-3495-439c-ab07-7fff9f292c3e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "maoSquat4": {
+      "ver": "1.0.3",
+      "uuid": "49340843-72ef-4e85-980a-c98e8c6b5647",
+      "rawTextureUuid": "752af102-3495-439c-ab07-7fff9f292c3e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 140,
+      "rawWidth": 100,
+      "rawHeight": 140,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

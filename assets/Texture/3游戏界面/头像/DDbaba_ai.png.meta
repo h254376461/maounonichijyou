@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a0904b96-88a0-4b50-a173-ea1554c41186",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "DDbaba_ai": {
+      "ver": "1.0.3",
+      "uuid": "3525807c-9f55-4fcd-9524-dcb67d476bf4",
+      "rawTextureUuid": "a0904b96-88a0-4b50-a173-ea1554c41186",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 180,
+      "height": 180,
+      "rawWidth": 180,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

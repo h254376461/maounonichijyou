@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2c81d5c3-8e3f-4845-8c8e-8330f9240c25",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "kakonokiroku(hui)": {
+      "ver": "1.0.3",
+      "uuid": "76274932-2a82-47fa-8d80-5bf6e64432d4",
+      "rawTextureUuid": "2c81d5c3-8e3f-4845-8c8e-8330f9240c25",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 200,
+      "height": 70,
+      "rawWidth": 202,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

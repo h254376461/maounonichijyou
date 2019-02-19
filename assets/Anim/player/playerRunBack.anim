@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "playerRunBack",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5d5e9fa0-5450-444b-83a6-dcda56ae7854"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e52f040e-333a-4bf5-9a44-a76dcc71b9c4"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "cfd40b8a-afa8-4bba-ad7a-feaf9fd8cb27"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "424fc7a6-ecfa-41d7-999c-f9425a5cff37"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "424fc7a6-ecfa-41d7-999c-f9425a5cff37"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

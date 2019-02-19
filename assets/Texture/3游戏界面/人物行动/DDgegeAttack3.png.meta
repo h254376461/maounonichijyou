@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4eef4e1a-1758-4187-a58d-896c1225638b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "DDgegeAttack3": {
+      "ver": "1.0.3",
+      "uuid": "5e3b0a4b-0649-4776-aae1-4767f7087351",
+      "rawTextureUuid": "4eef4e1a-1758-4187-a58d-896c1225638b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 120,
+      "rawWidth": 100,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
